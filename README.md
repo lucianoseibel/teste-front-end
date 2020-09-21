@@ -145,6 +145,6 @@ Lista local:
 
 ### Exemplo Final
 
-![inputs](./images/form.png)
+![inputs](./images/formnew.png)
 
 ** Use sua criatividade para criar a página para listar os dados cadastrados **
